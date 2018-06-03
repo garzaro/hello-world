@@ -1,5 +1,5 @@
 # hello-world
-This was my first repository and used primarily for demonstrating github and open source licensing. 
+This was my first repository and used primarily for demonstrating github usage and open source licensing. 
 
 Copyright (C) 2018  Romano Garza
 
